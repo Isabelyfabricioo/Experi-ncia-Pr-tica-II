@@ -1,6 +1,4 @@
- Tendências no Desenvolvimento de Software em 2025
-
-Nos últimos dias, eu e meu grupo da faculdade realizamos uma pesquisa sobre o mercado de desenvolvimento de software, analisando competências, salários e tendências da área.
+ Nos últimos dias, eu e meu grupo da faculdade realizamos uma pesquisa sobre o mercado de desenvolvimento de software, analisando competências, salários e tendências da área.
 
 📊 O que aprendemos com essa atividade:
 
